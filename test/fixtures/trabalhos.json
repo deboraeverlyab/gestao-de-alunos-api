@@ -1,0 +1,28 @@
+[
+  {
+    "aluno": {
+      "nome": "Diego Rocha",
+      "email": "diego.rocha@example.com",
+      "matricula": "2025001",
+      "senha": "senha123"
+    },
+    "disciplinaId": "disciplina-matematica",
+    "trabalho": {
+      "titulo": "Lista de Exercícios 2",
+      "descricao": "Exercícios de equações do 2º grau."
+    }
+  },
+  {
+    "aluno": {
+      "nome": "Elisa Martins",
+      "email": "elisa.martins@example.com",
+      "matricula": "2025002",
+      "senha": "senha456"
+    },
+    "disciplinaId": "disciplina-programacao-web",
+    "trabalho": {
+      "titulo": "Formulário de Contato",
+      "descricao": "Formulário em HTML com validação em JavaScript."
+    }
+  }
+]
